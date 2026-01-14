@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Demo APP</title>
+    <script src="https://unpkg.com/htmx.org"></script>
+</head>
+<body>
+
+    <h3>Sum Numbers</h3>
+    
+    <form hx-post="/calc" hx-target="#result">
+        <input type="number" name="number1" placeholder="Number 1"><br>
+        <input type="number" name="number2" placeholder="Number 2"><br>
+        <input type="number" name="number3" placeholder="Number 3"><br>
+        <button type="submit">Sum Numbers</button>
+    </form>
+
+    <hr>
+
+    <div id="result"></div>
+
+</body>
+</html>
