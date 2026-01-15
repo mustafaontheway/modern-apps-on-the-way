@@ -2,4 +2,4 @@
 
 * 2026 => HTMX, FastAPI, Tailwind
 
-* 2027 => ... 
+* 2027 => Kotlin & CMP/Jetpack 
