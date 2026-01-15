@@ -2,4 +2,6 @@
 
 * 2026 => Vue Composition Api, TypeScript, FastAPI, Tailwind
 
-* 2027 => Kotlin & CMP/Jetpack 
+* 2026 => Kotlin & DSA
+
+* 2027 => Compose Multiplatform
